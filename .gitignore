@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+
+# dotenv environment variables file
+.env
+
+# macOS system files
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# npm-debug
+npm-debug.log*
+
+# build output
+dist/
+build/
+
+# coverage output
+coverage/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*~
